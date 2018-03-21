@@ -36,3 +36,4 @@ __pycache__
 .Trashes
 
 /project_env35
+/mujoco-py
