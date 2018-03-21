@@ -35,5 +35,4 @@ __pycache__
 .Spotlight-V100
 .Trashes
 
-/project_env35
-/mujoco-py
+project_env35/
